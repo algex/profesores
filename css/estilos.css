@@ -1,0 +1,72 @@
+/*WebPage Styles*/
+body {
+	background: #fff;
+}
+
+h1 {
+	font-family: helvetica;
+	text-align: center;
+}
+/*form styles*/
+form {
+	background-color: rgba(0,0,0,0.5);
+	border-radius:25px;
+	padding: 20px;
+	width: 300px;
+	margin:0 auto;
+}
+
+form h3 {
+	color:black;
+	font-family:tahoma;
+	text-align: center;
+}
+
+form input {
+	width: 100%;
+	margin-bottom: 4px;
+	padding:10px;
+	box-sizing:border-box;
+	border:none;	
+}
+/*boton styles*/
+#bnt{
+	margin-top:20px;
+	background-color: #2d2d2d;
+	color:#fff;
+	padding: 20px;
+}
+#space {
+	background-color: rgba(0,0,0,0.5);
+	border-radius:25px;
+	padding: 30px;
+	width: 300px;
+	margin:0 auto;
+}
+
+#make{
+	text-align: center;
+}
+
+div h3 {
+	font-size: 15px;
+	color:white;
+	font-family:tahoma;
+	text-align: center;
+	
+}
+div h4 {
+	color:black;
+	font-family:tahoma;
+	text-align: center;
+}
+
+#return{
+	border-radius: 10px;
+	font-family: tahoma;
+	margin-left: 60px;
+	text-decoration: none;
+	background-color: #2d2d2d;
+	color:#fff;
+	padding: 20px;
+}
