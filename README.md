@@ -2,10 +2,10 @@
 Pequeña asignación de aplicaciones de internet I 
 
 ## Solicita mediante formulario:
--Nombre 
--Cédula
--Número de horas trabajadas
--Precio de la hora.
+- Nombre 
+- Cédula
+- Número de horas trabajadas
+- Precio de la hora.
 
 ## Como salida muestra: 
 -Nombre
