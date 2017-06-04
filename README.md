@@ -1,6 +1,6 @@
 # Aplicación cálculo de hora Profesores
-Pequeña asignación de aplicaciones de internet I 
-Profesor: Bassam Asfur
+  Pequeña asignación de aplicaciones de internet I 
+  Profesor: Bassam Asfur
 
 ## Solicita mediante formulario:
 - Nombre 
