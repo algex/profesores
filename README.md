@@ -20,5 +20,5 @@
 ## Para usarlo
 - Descargar todos los archivos
 - Instalar en un servidor compatible con PHP 
-- Sí necesita hacer una modificación en el cálculo, hacerlo mediante el archivo "accion.php
+- Sí necesita hacer una modificación en el cálculo, hacerlo mediante el archivo "accion.php"
 
