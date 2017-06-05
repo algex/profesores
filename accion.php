@@ -4,6 +4,7 @@ $Nombre= $_POST['Nombre'];
 $Cedula= $_POST['Cedula'];
 $Nhoras= $_POST['CantidadH'];
 $PrecioH= $_POST['CostoH'];
+$PORCENTAJED= 11; //modificar aqui el porcentaje de descuento
 //Si algun campo esta vacio retornamos al formulario
 if ($Nhoras == 0 || $PrecioH == 0){
 	header('location:index.html');
@@ -14,7 +15,7 @@ if ($Nombre == "" || $Cedula == ""){
 //operación
 $Totaln= $PrecioH * $Nhoras * 4;
 
-$Porcentaje= 11 * $Totaln / 100;
+$Porcentaje= $PORCENTAJED * $Totaln / 100;
 
 $Total = $Totaln - $Porcentaje;
 ?>
